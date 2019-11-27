@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment2gui</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="relativetab">Relative</string>
+    <string name="constrainttab">Constraint</string>
+    <string name="lineartab">Linear</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
